@@ -9,4 +9,4 @@
 - AutoCAD
 
 ## Визуализация
-!(drawings/TEST4.jpg)
+![](drawings/TEST4.jpg)
